@@ -1,6 +1,4 @@
-----------------------------------------------------
----  A redistribution of https://wearedevs.net/  ---
-----------------------------------------------------
+
 
 --Waits until the player is in game
 repeat wait()
